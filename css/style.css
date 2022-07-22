@@ -1,0 +1,12 @@
+body
+{
+    padding-top: 60px;
+    align-self: center;
+    justify-content: center;
+}
+.sec-nav
+{
+    padding-top:70px ;
+    border-bottom-width: 5pt;
+    border-bottom-color: darkgray;
+}
